@@ -24,6 +24,6 @@ $ pip install moana
 
 ### Changelog
 
-#### 10/31/2018 - Version 0.1.1 released
+#### 10/30/2018 - Version 0.1.1 released
 
 This is the initial release of **Moana**. We used this version to construct the cell type classifiers described in our preprint. Additional documentation is forthcoming.
