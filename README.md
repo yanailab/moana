@@ -1,10 +1,6 @@
 ## Moana: A robust and scalable cell type classification framework for single-cell RNA-Seq data
 
-This repository contains a Python implementation of the Moana framework for predicting cell types in single-cell RNA-Seq data (Wagner and Yanai, bioRxiv 2018).
-
-<!--- ([Wagner et al., 2017](https://www.biorxiv.org/content/early/2018/04/09/217737))
-
--->
+This repository contains a Python implementation of the Moana framework for predicting cell types in single-cell RNA-Seq data ([Wagner and Yanai, 2018](https://www.biorxiv.org/content/early/2018/04/09/217737)).
 
 ### Installation
 
