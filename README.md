@@ -18,6 +18,10 @@ To install Moana, make sure you have activated/selected the correct conda enviro
 $ pip install moana
 ```
 
+### Tutorials
+
+Jupyter notebooks with tutorials on how to use Moana for analyzing scRNA-Seq data can be found in a [separate repository](https://github.com/flo-compbio/moana-tutorials).
+
 ### Changelog
 
 #### 10/30/2018 - Version 0.1.1 released

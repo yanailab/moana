@@ -126,7 +126,7 @@ def cell_mds_plot(
 
 def cell_tsne_plot(
         matrix: ExpMatrix,
-        components: Union[int, Iterable[int]] = 2,
+        components: Union[int, Iterable[int]] = 20,
         profile: ExpVector = None,
         cell_labels: CellAnnVector = None,
         dither: float = 0.0,
