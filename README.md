@@ -1,6 +1,13 @@
+
+<div style="text-align:center"><img style="width:50%; height: auto" src="https://github.com/yanailab/moana/raw/develop/moana.jpg"/></div>
+
 ## Moana: A robust and scalable cell type classification framework for single-cell RNA-Seq data
 
 This repository contains a Python implementation of the Moana framework for predicting cell types in single-cell RNA-Seq data ([Wagner and Yanai, 2018](https://www.biorxiv.org/content/early/2018/10/30/456129)).
+
+### Examples
+
+Jupyter notebooks with examples of how to use Moana for analyzing scRNA-Seq data can be found in a [separate repository](https://github.com/flo-compbio/moana-tutorials).
 
 ### Installation
 
@@ -17,10 +24,6 @@ To install Moana, make sure you have activated/selected the correct conda enviro
 ```console
 $ pip install moana
 ```
-
-### Tutorials
-
-Jupyter notebooks with tutorials on how to use Moana for analyzing scRNA-Seq data can be found in a [separate repository](https://github.com/flo-compbio/moana-tutorials).
 
 ### Changelog
 
