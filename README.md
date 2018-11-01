@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img style="width:50%; height: auto" src="https://github.com/yanailab/moana/raw/master/src/moana.jpg"/></div>
+<div style="text-align:center"><img style="width:50%; height: auto" src="https://github.com/yanailab/moana/raw/develop/moana.jpg"/></div>
 
 ## Moana: A robust and scalable cell type classification framework for single-cell RNA-Seq data
 
