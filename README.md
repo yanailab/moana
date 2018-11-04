@@ -5,9 +5,9 @@
 
 This repository contains a Python implementation of the Moana framework for predicting cell types in single-cell RNA-Seq data ([Wagner and Yanai, 2018](https://www.biorxiv.org/content/early/2018/10/30/456129)).
 
-### Examples
+### Demonstrations
 
-Here are two Jupyter notebooks with exmaples of how Moana can be used to analyze scRNA-seq data:
+Here are two demonstrations of how Moana can be used to analyze scRNA-seq data:
 
 1. [Predict cell types using a Moana PBMC classifier (PBMC-4k)](https://nbviewer.jupyter.org/github/flo-compbio/moana-tutorials/blob/master/02%20-%20Predict%20cell%20types%20using%20a%20Moana%20PBMC%20classifier%20%28PBMC-4k%29.ipynb)
 
